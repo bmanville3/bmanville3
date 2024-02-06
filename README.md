@@ -18,7 +18,7 @@
 🥇 Placed first and second at multiple meets
 
 ### Connections
-📫 Feel free to reach out to me via email at bmanville3@gatech.edu (or bmanville03@gmail.com) or LinkedIn at www.linkedin.com/in/brandon-manville-25301b291
+📫 Feel free to reach out to me via email at bmanville3@gatech.edu (or bmanville03@gmail.com) or LinkedIn at www.linkedin.com/in/brandon-manville-25301b291/
 
 💬 Check out my projects on GitHub
 #### Fun Fact
