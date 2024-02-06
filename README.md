@@ -1,5 +1,25 @@
-Hi, I’m Brandon. I am double majoring in Math and Computer Science at Georgia Tech and am a 3rd year student.
+# Hi, I'm Brandon
+### About Me
+🎓 Third-year student double majoring in Math and Computer Science at Georgia Tech
 
-I’m interested in Machine Learning and Software Development. Right now, I know Java, Python, and MySQL. This semester, I am learning C programming, diving deeper into ML, and hopefully learn a little about HTML, CSS, and JavaScript.
+💻 Interested in Machine Learning and Software Development
 
-Outside of school, I enjoy competing in Strongman and Powerlifting. I have placed first and second at a few meets.
+🌱 Currently learning C programming and diving deeper into ML
+
+🚀 Hoping to explore HTML, CSS, and JavaScript soon
+### Tech Stack
+💼 Proficient in Java, Python, and MySQL
+
+🔍 Exploring HTML, CSS, and JavaScript
+
+### Interests
+🏋️‍♂️ Compete in Strongman and Powerlifting
+
+🥇 Placed first and second at multiple meets
+
+### Connections
+📫 Feel free to reach out to me via email at bmanville3@gatech.edu (or bmanville03@gmail.com) or LinkedIn at www.linkedin.com/in/brandon-manville-25301b291
+
+💬 Check out my projects on GitHub
+#### Fun Fact
+🎵 I also play the piano in my free time
